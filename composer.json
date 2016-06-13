@@ -1,0 +1,7 @@
+{
+    "name": "pds/pds",
+    "type": "library",
+    "description": "PDS repo.",
+    "homepage": "https://github.com/php-pds/pds",
+    "license": "MIT"
+}
