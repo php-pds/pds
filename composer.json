@@ -1,7 +1,7 @@
 {
     "name": "pds/pds",
     "type": "library",
-    "description": "PDS repo.",
+    "description": "PHP Data Sets implementation.",
     "homepage": "https://github.com/php-pds/pds",
     "license": "MIT"
 }
