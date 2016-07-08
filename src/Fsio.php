@@ -1,6 +1,8 @@
 <?php
 namespace Pds;
 
+use Exception;
+
 class Fsio
 {
     public function get($file)
