@@ -1,3 +1,3 @@
-# PHP Data Sets
+# Package Development Standards
 
 TBD.
